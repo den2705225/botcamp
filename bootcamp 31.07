@@ -35,4 +35,4 @@ int c;
 if(a+b+c)
  cout<<"треугольник воpможен"<<endl;
 else
-  if(a+b+c)
+  if(a+b+c)425178
