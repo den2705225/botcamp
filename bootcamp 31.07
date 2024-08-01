@@ -36,3 +36,66 @@ if(a+b+c)
  cout<<"треугольник воpможен"<<endl;
 else
   if(a+b+c)425178
+
+
+
+
+
+  задания 17
+  cout<<"ведите первое число"<<endl;
+    int a;
+  cin >> a;
+  if(a<1&& a>100)
+    cout <<"число в диапозоне"<<endl;
+  else cout <<"число не в диапозоне"<<endl;
+  }
+  return 0;
+}
+    */
+    /*
+ /задания 18
+"string" str;
+"cin >> str";
+if("str" =="yes")
+cout << "вы вели правильно";"endl";
+if("str" == "no")
+if ("year%400=0")  
+return true ("leap year")
+else if ("year%100=0")
+return false ("not leap year")
+  }
+return true ("yes leap year")
+   
+ return false ("not leap year ")
+  }
+"endif"
+   */ 
+ 
+
+/*
+задания 19
+  cout<<"ведите число a"<<endl;
+  int a;
+cjn>>a;
+cout<<"ведите число b"<<endl;
+int b;
+cjn>>b;
+cout<<"ведите число с"<<endl;
+int c;
+if(a+b<c)
+  if(a+c<b)
+   if(b+c<a) 
+ cout<<"треугольник возможен"<<endl;
+else
+  if(a+b+c)
+    cout<<"треугольник не возможен"<<
+
+*/
+
+
+
+
+
+
+
+
